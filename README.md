@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/akhouri_systems_animated_ringlight_gold.gif" alt="Akhouri Systems" width="220">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/hero.svg" alt="Akhouri Systems — a software manufacturing company, India" width="100%">
 </p>
 
