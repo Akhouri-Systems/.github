@@ -36,14 +36,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Akhouri-Systems/ACALCU"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/c_acalcu.svg" alt="ACALCU" width="49%"></a>
-  <a href="https://github.com/Akhouri-Systems/ANOTE"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/c_anote.svg" alt="ANOTE" width="49%"></a>
-  <br>
-  <a href="https://github.com/Akhouri-Systems/ACALCU/releases/download/ACALCU/ACALCU.by.Akhouri.Systems.zip"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/b_acalcu.svg" alt="Download ACALCU" width="49%"></a>
-  <a href="https://github.com/Akhouri-Systems/ANOTE/releases/download/ANOTE/ANOTE.zip"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/b_anote.svg" alt="Download ANOTE" width="49%"></a>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/status.svg" alt="status: 0 telemetry, 0 cloud, 0 subscriptions, 0 ads, $0 price" width="100%">
 </p>
 
