@@ -28,19 +28,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Akhouri-Systems/ATLOCK"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/c_atlock.svg" alt="ATLOCK" width="49%"></a>
-  <a href="https://github.com/Akhouri-Systems/APIC"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/c_apic.svg" alt="APIC" width="49%"></a>
+  <a href="https://github.com/Akhouri-Systems/ATLOCK"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/c_atlock.svg" alt="ATLOCK" width="32%"></a>
+  <a href="https://github.com/Akhouri-Systems/APIC"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/c_apic.svg" alt="APIC" width="32%"></a>
+  <a href="https://github.com/Akhouri-Systems/ASNIPP"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/c_asnipp.svg" alt="ASNIPP" width="32%"></a>
   <br>
-  <a href="https://github.com/Akhouri-Systems/ATLOCK/releases/download/v5.0.0/ATLOCK_v5.zip"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/b_atlock.svg" alt="Download ATLOCK" width="49%"></a>
-  <a href="https://github.com/Akhouri-Systems/APIC/releases/download/APIC/APIC.zip"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/b_apic.svg" alt="Download APIC" width="49%"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Akhouri-Systems/ACALCU"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/c_acalcu.svg" alt="ACALCU" width="49%"></a>
-  <a href="https://github.com/Akhouri-Systems/ANOTE"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/c_anote.svg" alt="ANOTE" width="49%"></a>
-  <br>
-  <a href="https://github.com/Akhouri-Systems/ACALCU/releases/download/ACALCU/ACALCU.by.Akhouri.Systems.zip"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/b_acalcu.svg" alt="Download ACALCU" width="49%"></a>
-  <a href="https://github.com/Akhouri-Systems/ANOTE/releases/download/ANOTE/ANOTE.zip"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/b_anote.svg" alt="Download ANOTE" width="49%"></a>
+  <a href="https://github.com/Akhouri-Systems/ATLOCK/releases/download/v5.0.0/ATLOCK_v5.zip"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/b_atlock.svg" alt="Download ATLOCK" width="32%"></a>
+  <a href="https://github.com/Akhouri-Systems/APIC/releases/download/APIC/APIC.zip"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/b_apic.svg" alt="Download APIC" width="32%"></a>
+  <a href="https://github.com/Akhouri-Systems/ASNIPP/releases/download/v1.0.0/ASNIPP_v1.zip"><img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/b_asnipp.svg" alt="Download ASNIPP" width="32%"></a>
 </p>
 
 <p align="center">
