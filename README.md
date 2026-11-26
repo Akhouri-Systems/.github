@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/hero.svg" alt="Akhouri Systems — a software manufacturing company, India" width="100%">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAkhouri-Anmol-Kumar%2FAkhouri-systems%2Fmain%2Fdownloads.json&query=%24.total&label=TOTAL%20DOWNLOADS&color=F2C44E&labelColor=101014&style=for-the-badge" alt="Total downloads">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAkhouri-Anmol-Kumar%2FAkhouri-systems%2Fmain%2Fdownloads.json&query=%24.total&label=TOTAL%20DOWNLOADS&color=FFFFFF&labelColor=09090B&style=for-the-badge" alt="Total downloads">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akhouri-Systems/.github/main/about.svg" alt="about" width="100%">

@@ -18,10 +18,10 @@
 <defs>
 <filter id="blur" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
 <filter id="blur2" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
-<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#f2c44e" stroke-opacity="0.045" stroke-width="1"/></pattern>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/></pattern>
 <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="320" y2="0" spreadMethod="repeat">
-<stop offset="0" stop-color="#e0b64a"/><stop offset="0.45" stop-color="#f2c44e"/><stop offset="0.5" stop-color="#fff4c9"/><stop offset="0.55" stop-color="#f2c44e"/><stop offset="1" stop-color="#e0b64a"/>
+<stop offset="0" stop-color="#e6e6e6"/><stop offset="0.45" stop-color="#ffffff"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="0.55" stop-color="#ffffff"/><stop offset="1" stop-color="#e6e6e6"/>
 <animateTransform attributeName="gradientTransform" type="translate" from="-320 0" to="320 0" dur="5s" repeatCount="indefinite"/></linearGradient>
 </defs>
-<polygon points="108.2,10 283.8,10 291.8,18 291.8,46 108.2,46" fill="#f2c44e"/><path d="M132.2 21 V33 M126.19999999999999 29 L132.2 34 L138.2 29 M125.19999999999999 37 H139.2" fill="none" stroke="#0a0d12" stroke-width="2.4" stroke-linecap="square"/><text x="150.2" y="33" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="13" font-weight="800" letter-spacing="1.2" fill="#0a0d12">DOWNLOAD APIC</text>
+<polygon points="108.2,10 283.8,10 291.8,18 291.8,46 108.2,46" fill="#ffffff"/><path d="M132.2 21 V33 M126.19999999999999 29 L132.2 34 L138.2 29 M125.19999999999999 37 H139.2" fill="none" stroke="#0a0a0a" stroke-width="2.4" stroke-linecap="square"/><text x="150.2" y="33" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="13" font-weight="800" letter-spacing="1.2" fill="#0a0a0a">DOWNLOAD APIC</text>
 </svg>
